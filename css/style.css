@@ -173,6 +173,7 @@ body {
 
 .about .row {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .about .row .about-img {
@@ -191,6 +192,7 @@ body {
 .about .row .content h3 {
     font-size: 1.8rem;
     margin-bottom: 1rem;
+    margin-top: 1.5rem;
 }
 
 .about .row .content p {
